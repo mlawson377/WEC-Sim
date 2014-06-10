@@ -8,7 +8,7 @@ The WEC-Sim project is funded by the U.S. Department of Energy’s Wind and Wate
 * Kelley Ruehl (SNL)
 * Carlos Michelen (SNL)
 * Yi-Hsiang Yu (NREL)
-*Michael Lawson (NREL)
+* Michael Lawson (NREL)
 
 **Contributors:**
 * Adam Nelessen (Georgia Tech)
